@@ -1,0 +1,12 @@
+description: null
+github_branch: I2CPWM01A
+github_repo: I2CPWM01
+github_url: https://github.com/mlab-modules/I2CPWM01
+homepage: false
+images:
+- doc/img/I2CPWM01A_top_big.jpg
+- doc/img/I2CPWM01A_small.jpg
+- doc/img/I2CPWM01A_QRcode.png
+mark: 50
+tags: []
+title: I2CPWM01
