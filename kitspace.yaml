@@ -5,4 +5,6 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/I2CPWM01
-summary: null
+summary: The module allows the generation of PWM signal, which can be adjusted using
+  the I2C interface. The module has eight outputs that can run simultaneously on two
+  frequencies in the range of 0.59 Hz - 152 Hz (with 1.69 - 6.58 ms).
